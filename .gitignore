@@ -1,0 +1,9 @@
+jlcpcb/**
+panelized/**
+*-backups/**
+~*
+*.zip
+*kicad_prl
+-cache*
+*.lck
+fp-info-cache
