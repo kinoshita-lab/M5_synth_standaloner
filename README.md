@@ -3,6 +3,7 @@
 M5 Synth standaloner san is a handy PCB which enables standalone use of:
 - Unit Synth https://docs.m5stack.com/ja/unit/Unit-Synth 
 - Unit MIDI https://docs.m5stack.com/en/unit/Unit-MIDI
+
 without using a microcontroller such as M5Stack/Stick. 
 Both Type A and Type B MIDI IN are supported.
 
